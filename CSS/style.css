@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+    padding-top: 30px;
+    font: normal 30pt arial;
+    text-align: center;
+    line-height: 300px;
+    font-weight: bold;
+}
+
+body{
+    font:normal 16pt arial;
+    background-color: #cccccc;
+}
+
+input{
+    font: normal 20pt arial;
+    width: 300px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    float:inline-start;
+    
+}
+
+.txtn1{
+    margin-left: 34%;
+    
+}
+
+#res{
+    font: normal 20pt arial;
+    padding-top: 20px;
+    font: normal 18pt arial;
+    text-align: center;
+}
+
+input.submit{
+    background-color:teal ;
+    color: white;
+    cursor: pointer;
+}
+
+.submit:hover{
+    background-color: rgb(27, 185, 185);
+}
